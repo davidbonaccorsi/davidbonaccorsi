@@ -1,5 +1,5 @@
 # David Bonaccorsi
-**Computer Science Undergraduate** | Universitatea "Lucian Blaga" din Sibiu (ULBS)
+**Computer Science Undergraduate** | University "Lucian Blaga" of Sibiu (ULBS)
 
 I am a Computer Science student focused on backend architecture, systems programming, and database management. My current academic and project work revolves around building robust, scalable logic and optimizing low-level performance. 
 
