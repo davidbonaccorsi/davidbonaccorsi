@@ -22,11 +22,6 @@ I am a Computer Science student focused on backend architecture, systems program
   * **Stack:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
   * **Focus:** Database relational mapping, secure endpoint architecture, and data validation.
 
-* 🖥️ **[InsureBroker-Frontend](https://github.com/davidbonaccorsi/InsureBroker-Frontend)**
-  * **Role:** Client-side consumption and user interface.
-  * **Stack:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  * **Focus:** Asynchronous data fetching, state management, and responsive UI design.
-
 ---
 ### 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/davidbonaccorsi/) • [davidbonaccorsi@github](https://github.com/davidbonaccorsi)
